@@ -1,0 +1,8 @@
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\bin\Debug\ChatInterfaces.dll
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\bin\Debug\ChatInterfaces.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatServer\obj\Debug\ChatServer.pdb

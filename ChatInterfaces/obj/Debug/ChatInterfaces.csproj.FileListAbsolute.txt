@@ -1,0 +1,5 @@
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatInterfaces\bin\Debug\ChatInterfaces.dll
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatInterfaces\bin\Debug\ChatInterfaces.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatInterfaces\obj\Debug\ChatInterfaces.dll
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatInterfaces\obj\Debug\ChatInterfaces.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatInterfaces\obj\Debug\ChatInterfaces.csprojResolveAssemblyReference.cache

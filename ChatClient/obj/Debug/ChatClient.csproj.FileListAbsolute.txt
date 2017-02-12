@@ -1,0 +1,16 @@
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\App.g.cs
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\bin\Debug\ChatInterfaces.dll
+C:\Users\seanob\Documents\GitHub\GraphicalChatRoom\ChatClient\bin\Debug\ChatInterfaces.pdb
